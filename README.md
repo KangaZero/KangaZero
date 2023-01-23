@@ -87,7 +87,7 @@
 
 ## What Else?
 
-<h2 align="center">Favourite Pieces</h2>
+<h2 align="center">Favourite Piece(s)</h2>
 
 <br>
 
@@ -99,6 +99,8 @@ alt="Sonata-in-B-minor" />
 <br>
 
 <h3>Sonata in B Minor S.178 <i>(p.1854)</i> By <strong>Franz Liszt</strong>
+
+<br>
 
 ```
                .-----..-.                .-.                   
