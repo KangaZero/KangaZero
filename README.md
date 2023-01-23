@@ -1,3 +1,13 @@
+```
+                    .-.   .-.      .-.                             
+                    : :.-.: :      : :                             
+                    : :: :: : .--. : :   .--.  .--. ,-.,-.,-. .--. 
+                    : `' `' ;' '_.': :_ '  ..'' .; :: ,. ,. :' '_.'
+                    `.,`.,' `.__.'`.__;`.__.'`.__.':_;:_;:_;`.__.'
+                                                                
+                                                                
+```
+
 <h1 align="center">Hi 👋, I'm Samuel Wai Weng Yong</h1>
 <h3 align="center">A newly made fullstack web developer!</h3>
 
@@ -13,6 +23,7 @@
 - 👨‍💻 All of my projects are available at [https://kangazero.github.io/my-page/](https://kangazero.github.io/my-page/)
 
 - 📫 How to reach me [samuelyongw@gmail.com](mailto:samuelyongw@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1ipZyCbrZHzOOB7RFe1dt4fjCJgm_eqR7/view?usp=sharing)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -50,7 +61,7 @@
 <hr>
 
 ## Github Stats
-<div style="display:flex;flex-direction:column;justify-content:center;">
+
 <br>
     <p>
         <img 
@@ -71,4 +82,38 @@
         align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=kangazero&theme=radical" alt="kangazero" />
     </p>
-</div>
+
+<hr>
+
+## What Else?
+
+<h2 align="center">Favourite Pieces</h2>
+
+<br>
+
+<img 
+align="center" 
+src=".\assets\sonatainB.jpg"
+alt="Sonata-in-B-minor" />
+
+<br>
+
+<h3>Sonata in B Minor S.178 <i>(p.1854)</i> By <strong>Franz Liszt</strong>
+
+```
+               .-----..-.                .-.                   
+              `-. .-': :                : :.-.                
+                : :  : `-.  .--.  ,-.,-.: `'.' .--.           
+                : :  : .. :' .; ; : ,. :: . `.`._-.'          
+                :_;  :_;:_;`.__,_;:_;:_;:_;:_;`.__.'          
+                                                              
+                                                              
+                .-.   .---.                 .-. _             
+               .'.'   : .; :                : ::_;            
+              .'.'_   :   .' .--.  .--.   .-' :.-.,-.,-. .--. 
+              :_ ` :  : :.`.' '_.'' .; ; ' .; :: :: ,. :' .; :
+                :_:   :_;:_;`.__.'`.__,_;`.__.':_;:_;:_;`._. ;
+                                                         .-. :
+                                                         `._.'
+               
+```
