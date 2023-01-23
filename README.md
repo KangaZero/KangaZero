@@ -32,8 +32,8 @@
 
 <hr>
 
-<h2 align="center">Computer languages</h2>
-<p align="center">
+<h2 align="left">Computer Languages</h2>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,regex" />
   </a>
@@ -41,8 +41,8 @@
 
 <br>
 
-<h2 align="left">FrontEnd Frameworks and Tools</h2>
-<p align="left">
+<h2 align="center">FrontEnd Frameworks and Tools</h2>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,styledcomponents,graphql,jquery,svg" />
   </a>
@@ -53,7 +53,16 @@
 <h2 align="right">BackEnd Frameworks and Tools</h2>
 <p align="right">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,apollo,graphql,jest,nodejs,webpack,flask," />
+    <img src="https://skillicons.dev/icons?i=express,apollo,graphql,jest,nodejs,webpack,flask" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">Database Languages</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
