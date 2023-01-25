@@ -13,8 +13,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangazero&label=Profile%20views&color=0e75b6&style=flat" alt="kangazero" /> </p>
 
-
 - 🔭 I’m currently working on [Passion](https://github.com/KangaZero/passion)
+
+<details> 
+ 
+ <summary>Loading state</summary>
+
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/107836643/214600599-ebd2df76-f62e-47d9-a21f-3b58321a223a.gif" alt="Loading-state" />
+</p>
+ 
+
+ </details>
+
+<details> 
+ 
+ <summary>Login page</summary>
+
+  <p align="center">
+   <img src="https://user-images.githubusercontent.com/107836643/214598506-17c43b2e-1601-42ce-8f0d-e016d7e3dfb7.gif" alt="Login-page" />
+  </p>
+
+ 
+ </details>
 
 - 🌱 I’m currently learning <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c" height="30" width="60"/>
@@ -102,11 +123,13 @@
 
 <h3>Sonata in B Minor S.178 <i>(p.1854)</i> By <strong>Franz Liszt</strong>
 
-
-<img 
-align="center" 
-src=".\assets\sonatainB.jpg"
-alt="Sonata-in-B-minor" />
+ <p align="center">
+  <img 
+  src=".\assets\sonatainB.jpg"
+  alt="Sonata-in-B-minor" />
+ </p>
+                       
+                  
 
 <br>
 
