@@ -41,7 +41,8 @@
     <img src="https://skillicons.dev/icons?i=python,c" height="30" width="60"/>
   </a>
 
-- 👨‍💻 All of my projects are available at [https://kangazero.github.io/my-page/](https://kangazero.github.io/my-page/)
+- 👨‍💻 All of my projects are available at my <strong>NEW</strong> portfolio: [https://kanga-works2023.vercel.app/](https://kanga-works2023.vercel.app/)
+- My legacy portfolio: [https://kangazero.github.io/my-page/](https://kangazero.github.io/my-page/)
 
 - 📫 How to reach me [samuelyongw@gmail.com](mailto:samuelyongw@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1ipZyCbrZHzOOB7RFe1dt4fjCJgm_eqR7/view?usp=sharing)
