@@ -41,11 +41,11 @@
     <img src="https://skillicons.dev/icons?i=python,c" height="30" width="60"/>
   </a>
 
-- 👨‍💻 All of my projects are available at my <strong>NEW</strong> portfolio: [https://kanga-works2023.vercel.app/](https://kanga-works2023.vercel.app/)
-- My legacy portfolio: [https://kangazero.github.io/my-page/](https://kangazero.github.io/my-page/)
+- 👨‍💻 All of my projects are available at my <strong>NEW</strong> portfolio: <a href="https://kanga-works2023.vercel.app/" target="_blank" rel="noreferrer">https://kanga-works2023.vercel.app/</a>
+- My legacy portfolio: <a href="https://kangazero.github.io/my-page/" target="_blank" rel="noreferrer">https://kangazero.github.io/my-page/</a>
 
 - 📫 How to reach me [samuelyongw@gmail.com](mailto:samuelyongw@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1ipZyCbrZHzOOB7RFe1dt4fjCJgm_eqR7/view?usp=sharing)
+- 📝 <a href="https://docs.google.com/document/d/1IWM_jF50C-1sEABgcbTQ-xtmE5iRX5se53hjQAWnRzY/edit?usp=sharing" target="blank" rel="noreferrer">Resume</a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
