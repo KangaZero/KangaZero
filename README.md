@@ -9,7 +9,7 @@
 ```
 
 <h1 align="center">Hi 👋, I'm Samuel Wai Weng Yong</h1>
-<h3 align="center">A newly made fullstack web developer!</h3>
+<h3 align="center">Fullstack Web Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangazero&label=Profile%20views&color=0e75b6&style=flat" alt="kangazero" /> </p>
 
@@ -123,6 +123,8 @@
 <br>
 
 <h3>Sonata in B Minor S.178 <i>(p.1854)</i> By <strong>Franz Liszt</strong>
+ 
+ <br>
 
  <p align="center">
   <img 
