@@ -49,7 +49,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/samuel-yong-4a6874194" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="samuel-yong-4a6874194" /></a>
+<a href="https://linkedin.com/in/samuel-yong-4a6874194" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="samuel-yong-4a6874194" /></a>
 </p>
 
 <hr>
