@@ -9,7 +9,7 @@
 ```
 
 <h1 align="center">Hi 👋, I'm Samuel Wai Weng Yong</h1>
-<h3 align="center">Fullstack Web Developer!</h3>
+<h2 align="center">Full-Stack Web Developer!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangazero&label=Profile%20views&color=0e75b6&style=flat" alt="kangazero" /> </p>
 
@@ -42,7 +42,7 @@
   </a>
 
 - 👨‍💻 All of my projects are available at my <strong>NEW</strong> portfolio: <a href="https://kanga-works2023.vercel.app/" target="_blank" rel="noreferrer">https://kanga-works2023.vercel.app/</a>
-- 🎞️My legacy portfolio: <a href="https://kangazero.github.io/my-page/" target="_blank" rel="noreferrer">https://kangazero.github.io/my-page/</a>
+- 🎞️ My legacy portfolio: <a href="https://kangazero.github.io/my-page/" target="_blank" rel="noreferrer">https://kangazero.github.io/my-page/</a>
 
 - 📫 How to reach me [samuelyongw@gmail.com](mailto:samuelyongw@gmail.com)
 - 📝 <a href="https://docs.google.com/document/d/1IWM_jF50C-1sEABgcbTQ-xtmE5iRX5se53hjQAWnRzY/edit?usp=sharing" target="blank" rel="noreferrer">Resume</a>
