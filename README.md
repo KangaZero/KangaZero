@@ -33,12 +33,12 @@
   <p align="center">
    <img src="https://user-images.githubusercontent.com/107836643/214598506-17c43b2e-1601-42ce-8f0d-e016d7e3dfb7.gif" alt="Login-page" />
   </p> -->
-
+<h1 align="center">2025 UPDATE, was in SAP hell for a whole year, but now back to modern development!</h1>
  
  </details>
 
 - 🌱 I’m currently learning <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp" height="30" width="60"/>
+    <img src="https://skillicons.dev/icons?i=electron" height="30" width="60"/>
   </a>
 
 - 👨‍💻 All of my projects are available at my <strong>NEW</strong> portfolio: <a href="https://kanga-works2023.vercel.app/" target="_blank" rel="noreferrer">https://kanga-works2023.vercel.app/</a>
