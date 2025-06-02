@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangazero&label=Profile%20views&color=0e75b6&style=flat" alt="kangazero" /> </p>
 
-- 🔭 My most recent work [HandWritten-Recognition-AI](https://github.com/KangaZero/Handwritten-Recognition-AI)
+- 🔭 My most recent work, a simple full frontend quiz page built with Svelte + Tailwind [quizlet.io](https://quizlet-io.vercel.app/)
 
 <!-- <details> 
  
@@ -38,10 +38,10 @@
  </details>
 
 - 🌱 I’m currently learning <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron" height="30" width="60"/>
+    <img src="https://skillicons.dev/icons?i=svelte" height="30" width="60"/>
   </a>
 
-- 👨‍💻 All of my projects are available at my <strong>NEW</strong> portfolio: <a href="https://kanga-works2023.vercel.app/" target="_blank" rel="noreferrer">https://kanga-works2023.vercel.app/</a>
+- 👨‍💻 Here is my old <strong>NEW</strong> portfolio (thinking of making a new one at the end of 2025): <a href="https://kanga-works2023.vercel.app/" target="_blank" rel="noreferrer">https://kanga-works2023.vercel.app/</a>
 - 🎞️ My legacy portfolio: <a href="https://kangazero.github.io/my-page/" target="_blank" rel="noreferrer">https://kangazero.github.io/my-page/</a>
 
 - 📫 How to reach me [samuelyongw@gmail.com](mailto:samuelyongw@gmail.com)
@@ -58,7 +58,7 @@
 <h2 align="left">Computer Languages</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,regex" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,regex" />
   </a>
 </p>
 
