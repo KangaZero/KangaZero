@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=svelte" height="30" width="60"/>
   </a>
 
-- 👨‍💻 Here is my old <strong>NEW</strong> portfolio (thinking of making a new one at the end of 2025): <a href="https://kanga-works2023.vercel.app/" target="_blank" rel="noreferrer">https://kanga-works2023.vercel.app/</a>
+- 👨‍💻 Here is my old <strong>NEW</strong> portfolio (thinking of making a new one at the end of 2026): <a href="https://kanga-works2023.vercel.app/" target="_blank" rel="noreferrer">https://kanga-works2023.vercel.app/</a>
 - 🎞️ My legacy portfolio: <a href="https://kangazero.github.io/my-page/" target="_blank" rel="noreferrer">https://kangazero.github.io/my-page/</a>
 
 - 📫 How to reach me [samuelyongw@gmail.com](mailto:samuelyongw@gmail.com)
@@ -58,7 +58,7 @@
 <h2 align="left">Computer Languages</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,regex" />
+    <img src="https://skillicons.dev/icons?i=js,ts,lua,swift,html,css,regex" />
   </a>
 </p>
 
