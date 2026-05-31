@@ -1,93 +1,68 @@
+
 ```
-.-.   .-.      .-.                                .-.         .-..-.                          .----.                 
-: :.-.: :      : :                               .' `.        : :' ;                          `--. :                 
-: :: :: : .--. : :   .--.  .--. ,-.,-.,-. .--.   `. .' .--.   :   '  .--.  ,-.,-. .--.  .--.    ,',' .--. .--.  .--. 
+.-.   .-.      .-.                                .-.         .-..-.                          .----.
+: :.-.: :      : :                               .' `.        : :' ;                          `--. :
+: :: :: : .--. : :   .--.  .--. ,-.,-.,-. .--.   `. .' .--.   :   '  .--.  ,-.,-. .--.  .--.    ,',' .--. .--.  .--.
 : `' `' ;' '_.': :_ '  ..'' .; :: ,. ,. :' '_.'   : : ' .; :  : :.`.' .; ; : ,. :' .; :' .; ; .'.'_ ' '_.': ..'' .; :
  `.,`.,' `.__.'`.__;`.__.'`.__.':_;:_;:_;`.__.'   :_; `.__.'  :_;:_;`.__,_;:_;:_;`._. ;`.__,_;:____;`.__.':_;  `.__.'
-                                                                                  .-. :                              
-                                                                                  `._.'                              
+                                                                                  .-. :
+                                                                                  `._.'
 ```
 
-<h1 align="center">Hi 👋, I'm Samuel Wai Weng Yong</h1>
-<h2 align="center">Full-Stack Web Developer!</h2>
+# Samuel Wai Weng Yong
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangazero&label=Profile%20views&color=0e75b6&style=flat" alt="kangazero" /> </p>
 
-- 🔭 My most recent work, a simple full frontend quiz page built with Svelte + Tailwind [quizlet.io](https://quizlet-io.vercel.app/)
+**Fullstack engineer.** 
+- ** Best at: TypeScript · React · Node. 
+- ** Loves: Nix, Lua, C. 
+- ** Wants to good at: Rust, Swift, Bash. 
+- ** Absolute no: ABAP
 
-<!-- <details> 
- 
- <summary>Loading state</summary>
+Currently building **Neomouse** — vim motions for the macOS pointer. Keyboard-only cursor navigation, no rodent required.
 
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/107836643/214600599-ebd2df76-f62e-47d9-a21f-3b58321a223a.gif" alt="Loading-state" />
-</p>
- 
+<a href="https://www.linkedin.com/in/samuel-wai-weng-yong-4a6874194/"><img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="linkedin"/></a>
+<a href="mailto:samuelyongw@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="28" alt="email"/></a>
 
- </details>
+---
 
-<details> 
- 
- <summary>Login page</summary>
+### Now
 
-  <p align="center">
-   <img src="https://user-images.githubusercontent.com/107836643/214598506-17c43b2e-1601-42ce-8f0d-e016d7e3dfb7.gif" alt="Login-page" />
-  </p> -->
-<h1 align="center">2025 UPDATE, was in SAP hell for a whole year, but now back to modern development!</h1>
- 
- </details>
+- **[Neomouse](https://github.com/KangaZero)** — vim motions for the macOS cursor.
+- **Daily drivers** — On MacOS - Neovim, Nix, Brew on Nix. On Windows - WSL2 - Arch + Nix.
+- **To all devs** — TRY Vim-motions and a declarative package manager/OS like Nix or Guixs! A
+- Will share my dotfiles, but there are too messy right now.
 
-- 🌱 I’m currently learning <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svelte" height="30" width="60"/>
-  </a>
+### Stack
 
-- 👨‍💻 Here is my old <strong>NEW</strong> portfolio (thinking of making a new one at the end of 2026): <a href="https://kanga-works2023.vercel.app/" target="_blank" rel="noreferrer">https://kanga-works2023.vercel.app/</a>
-- 🎞️ My legacy portfolio: <a href="https://kangazero.github.io/my-page/" target="_blank" rel="noreferrer">https://kangazero.github.io/my-page/</a>
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Lua · Swift · Bash |
+| **Frontend** | React · Next.js · Vue · Tailwind · Vite  |
+| **Backend** | Node · Express · NestJS · Prisma · Apollo |
+| **Data** | Postgres · Redis · MongoDB · SQLite · MySQL |
+| **Testing** | Vitest · Jest · Playwright |
+| **Tooling** | Neovim · Nix · Docker · Git |
 
-- 📫 How to reach me [samuelyongw@gmail.com](mailto:samuelyongw@gmail.com)
-- 📝 <a href="https://docs.google.com/document/d/1IWM_jF50C-1sEABgcbTQ-xtmE5iRX5se53hjQAWnRzY/edit?usp=sharing" target="blank" rel="noreferrer">Resume</a>
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
- 
-<a href="https://www.linkedin.com/in/samuel-wai-weng-yong-4a6874194/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="samuel-yong-4a6874194" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,svelte,tailwind,vite,nodejs,express,nestjs,prisma,graphql,postgres,redis,mongodb,vitest,neovim,nix,docker,git,linux,bash&perline=11" alt="stack" />
 </p>
 
-<hr>
+### Elsewhere
 
-<h2 align="left">Computer Languages</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,lua,swift,html,css,regex" />
-  </a>
+[Portfolio (WIP, 2026)](https://must-finish-2025.vercel.app/en) · [Portfolio (2023)](https://kanga-works2023.vercel.app/) · [Legacy site](https://kangazero.github.io/my-page/)
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kangazero&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangazero&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="top langs" />
 </p>
 
-<br>
+---
 
-<h2 align="center">FrontEnd Frameworks and Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,styledcomponents,graphql,jquery,svg" />
-  </a>
-</p>
-
-<br>
-
-<h2 align="right">BackEnd Frameworks and Tools</h2>
-<p align="right">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,apollo,graphql,jest,nodejs,webpack,flask,tensorflow" />
-  </a>
-</p>
-
-<br>
-
-<h2 align="center">Database Languages</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
+<sub>Off-screen — Liszt, Sonata in B Minor S.178. <a href="./assets/sonatainB.jpg">score</a>.</sub>
 
 
 <hr>
