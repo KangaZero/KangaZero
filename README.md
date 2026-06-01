@@ -32,6 +32,7 @@
 
 - **[Neomouse](https://github.com/KangaZero/neomouse)** — vim motions for the macOS cursor.
 - **Daily drivers** — On MacOS - Neovim, Nix, Brew on Nix. On Windows - WSL2 - Arch + Nix.
+- **[WSL2 (Arch) dotfiles](https://github.com/KangaZero/wsl-nix-config)** (Neovim config not included :( )
 - **To all devs** — TRY Vim-motions and a declarative package manager/OS like Nix or Guixs! A
 - Will share my dotfiles, but there are too messy right now.
 
